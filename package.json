@@ -1,0 +1,28 @@
+{
+  "name": "node-ransom",
+  "version": "0.0.1",
+  "description": "my first ransomware",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matheusjordan/node-ransom.git"
+  },
+  "keywords": [
+    "ransomware",
+    "nodejs",
+    "javascript"
+  ],
+  "author": "Matheus Jordan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matheusjordan/node-ransom/issues"
+  },
+  "homepage": "https://github.com/matheusjordan/node-ransom#readme",
+  "devDependencies": {
+    "eslint": "^6.7.2",
+    "eslint-config-google": "^0.14.0"
+  }
+}
